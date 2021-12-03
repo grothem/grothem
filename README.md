@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web3
 - 🌱 I’m currently learning ... web3
 - 💞️ I’m looking to collaborate on ... web3
-- 📫 How to reach me ... grothe.eth
+- 📫 How to reach me ... `@_grothe_`
 
 <!---
 grothem/grothem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
